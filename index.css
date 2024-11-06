@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Ll{
+    background-color: rgb(255, 0, 128);
+    height: 60px; 
+    grid-column: 1 / 3;
+   
+}
+
+.Victoriano{
+   height: 500px;
+    display: grid;
+    grid-template-columns: auto auto; 
+    grid-row: 2 /3;
+    background-color: rgb(255, 0, 128);
+    
+}
+
+.Ge{
+    grid-template-columns: auto auto;
+    gap: 20px;
+    display: grid;
+    
+}
+
+
+
+.Pp{
+    background-color: rgb(36, 209, 180);
+    height: 500px; 
+    grid-row: 2 / 3;
+   
+}
+
+
+.Paola{
+    height: 220px;
+    margin: 20px 10px 0px 10px; 
+    grid-column: 1 / 3;
+    background-color: aquamarine;
+   
+}
+.Pamela{
+    background-color: rgb(18, 207, 144);
+    height: 400px;
+    grid-column: 1 / 3;
+}
+.Boni{
+    margin-top: -10px;
+}
+
+
+
+.Ft{
+   height: 70px;
+    grid-column: 1 / 3; 
+    background-color: rgb(255, 0, 128);
+    
+}
